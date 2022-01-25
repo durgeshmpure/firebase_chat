@@ -14,6 +14,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ## Screen Shots
 ![Alt text](/image.png?raw=true "")
-![Alt text](/login_screen.png?raw=true "")
+![Alt text](/chat_screen.png?raw=true "")
 ![Alt text](/welcome_screen.png?raw=true "")
 ![Alt text](/register_screen.png?raw=true "")
