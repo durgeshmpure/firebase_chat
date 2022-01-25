@@ -13,8 +13,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## Screen Shots
-![Alt text](/image.png?raw=true "")
-![Alt text](/chat_screen.png?raw=true "")
-![Alt text](/welcome_screen.png?raw=true "")
-![Alt text](/register_screen.png?raw=true "")
- <img src="/register_screen.png" width="300" height="550">
+ <img src="/welcome_screen.png" width="300" height="550">
+  <img src="/register_screen.png" width="300" height="550">
+   <img src="/login_screen.png" width="300" height="550">
+
+     <img src="/chat_screen.png" width="300" height="550">
